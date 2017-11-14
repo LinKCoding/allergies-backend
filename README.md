@@ -56,8 +56,8 @@ Latest version is always available under the master branch in this repository.
 
 ## Authors
 
-Kenny Lin
-Kesean Woodhouse - https://github.com/kesean
+* Kenny Lin
+* Kesean Woodhouse - https://github.com/kesean
 
 
 ## License
