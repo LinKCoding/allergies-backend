@@ -48,6 +48,7 @@ $ rails s
 
 * Ruby on Rails
 * PostgreSQL
+* Recipes from Epicurious https://www.epicurious.com/
 
 ## Versioning
 
